@@ -1,0 +1,10 @@
+CPAN_AUTHOR="gaas"
+inherit perl
+
+NAME="perl-File-Listing"
+VERSION=6.04
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Directory listing parser for Perl"
+DESCRIPTION="This module exports a single function called parse_dir(), which
+can be used to parse directory listings."
